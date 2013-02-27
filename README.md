@@ -1,3 +1,13 @@
+This repo contains my personal copy of Mathias’s dotfiles.  It's nothing special.  You're welcome to fork my 
+copy if you'd like but you're probably better off forking the original from here:
+
+
+```bash
+git clone https://github.com/mathiasbynens/dotfiles.git && cd dotfiles && ./bootstrap.sh
+```
+
+
+
 # Mathias’s dotfiles
 
 ## Installation
